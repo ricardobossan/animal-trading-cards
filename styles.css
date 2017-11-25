@@ -1,0 +1,58 @@
+/* add your CSS here */
+
+body {
+    #fff
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px 0 10px 0;
+    padding-left: 0;
+}
+
+span {
+    font-weight: bold;
+}
+
+img {
+    width: 300px;
+}
+
+#outter-div {
+    width: 302px;
+    padding: 10px;
+    background-color: #B0E7F1;
+    border-size: 1px;
+    border-style: solid;
+    border-color: #759095;
+    border-margin: 10px;
+    border-radius: 4%;
+    box-shadow: 10px 10px 30px #646464;
+}
+
+.name {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.pic {
+    width: 300px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.inner-div {
+    text-align: justify;
+    width: 276px;
+    padding: 10px;
+    border-style: solid;
+    border-size: 1px
+    border-width: thin;
+    border-color: #759095;
+    border-radius: 4%;
+}
+
+.text {
+    margin: 0;
+}
